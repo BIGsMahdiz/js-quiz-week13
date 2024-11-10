@@ -1,0 +1,9 @@
+.text {
+  background-color: #a2d2ff;
+  padding: 10px;
+  margin-top: 20px;
+  border-radius: 10px;
+  color: #03045e;
+  min-height: 200px;
+  transition: all 0.4s;
+}
